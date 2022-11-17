@@ -1,0 +1,40 @@
+{
+	"storyName": "SUICIDE IMPOSTOR...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "blood",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"impostor",
+		""
+	],
+	"songs": [
+		[
+			"Unknown Sussy",
+			"impostor",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Needle Mouse",
+			"impostor",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "SUS"
+}
