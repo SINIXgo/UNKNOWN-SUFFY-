@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				162,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sus left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sus down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				93,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sus up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sus idle"
+		},
+		{
+			"offsets": [
+				-24,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sus right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickeysus_assets",
+	"position": [
+		-320,
+		-10
+	],
+	"healthicon": "impostermouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		190,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
